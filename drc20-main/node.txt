@@ -1,0 +1,4 @@
+- node . drc-20 mint XXXXXXXXXX fiwb 50 100
+- node . wallet balance
+- node . wallet sync
+- node . wallet split 10
